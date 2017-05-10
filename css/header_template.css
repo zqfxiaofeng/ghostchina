@@ -1,0 +1,28 @@
+/*template_header*/
+.template_header{
+	padding:42px 0;
+	background:#fff;
+	border-bottom:1px solid #ebebeb;
+}
+/*template_nav*/
+.template_nav{
+	border-bottom:2px solid #e1e1e1;
+}
+.template_nav{
+	text-align:center;
+	background:#fff;
+}
+.template_header_menu li{
+	display:inline-block;
+}
+#template_nav a{
+	color:#505050;
+	line-height:4em;
+	padding:0 21px;
+	display:block;
+}
+#template_nav a:hover{
+	color:#e67e22;
+	text-decoration: none;
+
+}

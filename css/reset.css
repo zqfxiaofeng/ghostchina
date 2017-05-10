@@ -1,0 +1,19 @@
+body{
+	padding:0;
+	margin:0;
+	background:#ebebeb;
+}
+li,ul,article,h2{
+	margin:0;
+	padding:0;
+}
+a{
+	color:#000;
+	text-decoration:none;
+}
+li{
+	list-style:none;
+}
+html{
+	font-size:14px;
+}
